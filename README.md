@@ -1,2 +1,2 @@
 # Personal-Blog
-whatever i do
+stuffs i do
